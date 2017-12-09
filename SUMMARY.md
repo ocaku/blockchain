@@ -55,21 +55,20 @@
  * 而激励层、合约层和应用层则不是每个区块链应用的必要因素
 
 
-## 前景
+## 扩展 
 
-###  数据  
+#####  数据  
 * 数据存储 云存储/分布式存储代替所有节点存储数据 如 Metadisk云存储 
 * 数据检索 
     存储信息日益膨胀使得“读”效率会逐步降低，中心化的检索/区块链本身复合检索功能，唯链Vechain采用后一种   
 * 数据隐秘性    
     需要实现 部分公开/部分不公开 ,区块链并非是匿名的而是非实名制的   
 
-#### 去中心化 
+##### 去中心化 
 ![nocenter](https://github.com/ocaku/blockchain/blob/master/nocenter.png)
  * 去中心化原因：1，高可用 2，容错力3，抗攻击力 4,防勾结串通,共识机制
  * 区块链是分布式系统，弱中心化服务，运行的方式比分布式网络所实现的更类似于一个去中心化网络运行的方式
  * 区块链的诞生是为了去中心化，但是不去中心化也是可以应用区块链技术的
-
 
 ##### 发展方向
  * 跨链技术 
@@ -81,9 +80,9 @@
  * 智能合约 
   1,规则引擎drools 2,虚拟机 EVM(以太坊虚拟机)
 
-### 扩展   
+### 篇外  
 
-#### BTC base
+##### BTC base
  * 2009年诞生 直到2140年达到2100万个的总量上限。（代码里写死的）此后，奖励机制不再产生新的比特币，而是用每笔交易抽取1%比特币的手续费形式维持系统运转。
  * 实际是20999999.97690000个
  * 10分钟一个block,之前是1M,现在是2M.
@@ -105,7 +104,7 @@
  * 小蚁区块链 https://github.com/antshares/antshares C#
  * Tendermint https://github.com/tendermint/tendermint golang
  * ASCH https://github.com/AschPlatform/asch js
- * https://github.com/paritytech/parity rust
+ * Parity https://github.com/paritytech/parity rust
 
 
 ##### 参考连接   
