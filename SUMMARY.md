@@ -112,9 +112,5 @@ https://www.zhihu.com/question/27256432
 https://www.cnblogs.com/loveling-0239/p/7028343.html   
 精通比特币 http://zhibimo.com/read/wang-miao/mastering-bitcoin/index.html   
 图片来源以百度图片  
-
-
-> Linux中国: [Linux中国](https://linux.cn)    
-> LinuxStory: [LinuxStory](https://www.linuxstory.org)   
-> StudyGolang: [StudyGolang](https://studygolang.com)   
-> 本文遵照 CC-BY-NC-SA : [CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)  协议规定，如果我们的工作有侵>犯到您的权益，请及时联系我.欢迎遵照 CC-BY-NC-SA : [CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh) 协议规定转载.
+ 
+> 本文遵照[CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)  协议规定，如果有侵犯到您的权益或者有其他意见想法，请及时联系我.欢迎遵照[CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh) 协议规定转载.
