@@ -47,6 +47,16 @@ P2Pool:P2Pool的挖矿节点工作在类似比特币区块链的一种shares链�
 #### btcpool 架构图       
 ![btcpool](https://github.com/ocaku/blockchain/blob/master/minepool/btcpool.png)
 
+
+1.GBTMakter 从主链获取最新的交易数据,打包数据发给MQ     
+2.JobMaker 从MQ中获取打包数据,生成任务数据发给MQ      
+3.Stratum Server 模块从MQ中获取任务,之后与miners数据通讯      
+4.矿机提交slovedlog 到MQ     
+5.BlockMaker 找到符合难度的sharelog数据,打包区块数据并广播       
+6 PoolWatcher 监听其他矿池    
+7.Mysql中sharelog user info    
+8.Web    
+
 ##### 参考
 btcpool  https://github.com/btccom/btcpool   
 支持多币种挖矿 https://github.com/zone117x/node-open-mining-portal      
